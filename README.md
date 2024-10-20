@@ -80,3 +80,18 @@ Feel free to contribute to the project by opening issues or submitting pull requ
 
 # License
 This project is licensed under the MIT License.
+
+
+
+![bankHomePage](https://github.com/user-attachments/assets/965af1f5-2788-4e6d-93c0-43c662c4743f)
+![bankCustomerLogin](https://github.com/user-attachments/assets/e370e752-5583-41c0-bb05-584b248d2751)
+![bankCustomerTransfer](https://github.com/user-attachments/assets/638958eb-a0c3-451a-a9e4-bd1ff67f40ab)
+![adminRegister](https://github.com/user-attachments/assets/ccbf5368-beb8-499f-948d-45da51f596e3)
+![adminLogin](https://github.com/user-attachments/assets/08ea949f-3064-44ed-8067-4fc161e9ec65)
+![adminDashboard](https://github.com/user-attachments/assets/e5ca169b-0af7-4269-a84f-8741c7949c05)
+![adminCreateUser](https://github.com/user-attachments/assets/ec65e5c7-6062-4fa0-a3e6-4ac6fb5075d1)
+![adminDepositUser](https://github.com/user-attachments/assets/9e7c94af-437a-463b-a7eb-f1fbf2dbb90d)
+![staffDashboard](https://github.com/user-attachments/assets/630e7627-83c6-455d-90bc-02bd50d8de7e)
+![staffCreateUser](https://github.com/user-attachments/assets/5df11d50-b051-491a-a6d9-7352dfe8f8fc)
+![staffDepositUser](https://github.com/user-attachments/assets/846722a2-3ca0-48fa-8e02-d28a6aacf187)
+
